@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://DRMichaelHarrington.github.io/sitemap.xml
